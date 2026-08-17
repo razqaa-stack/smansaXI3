@@ -1,240 +1,479 @@
 {
-  "metadata": {
-    "kelas": "XI.3",
-    "jumlah_siswa": 39,
-    "updated": "2026-08-17T08:18:00.832Z"
-  },
-  "siswa": [
+  "kelases": [
+    "XI.3"
+  ],
+  "siswas": [
     {
-      "id": 1786954549490,
+      "id": 1786961300233,
       "nama": "AIRA DELIA PUTRI",
       "nohp": "083176897420",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549491,
+      "id": 1786961300234,
       "nama": "ALINE NAVELA",
       "nohp": "085265502249",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549492,
+      "id": 1786961300235,
       "nama": "ALYA CIANEF",
       "nohp": "081366221358",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549493,
+      "id": 1786961300236,
       "nama": "AMELYA ANGGRIANI",
       "nohp": "083801631438",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549494,
+      "id": 1786961300237,
       "nama": "ANANTA ARMI",
       "nohp": "082211154858",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549495,
+      "id": 1786961300239,
       "nama": "ANGGA SYAHPUTRA",
       "nohp": "085374151308",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549496,
+      "id": 1786961300240,
       "nama": "ANNADIN RAHIMA YUSAN",
       "nohp": "085356941595",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549497,
+      "id": 1786961300241,
       "nama": "ANNISA ARAFATUL JANAH",
       "nohp": "082285329611",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549498,
+      "id": 1786961300242,
       "nama": "ANNISA VERBEL",
       "nohp": "082285632344",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549499,
+      "id": 1786961300243,
       "nama": "ARKAAN QOTHRUNNADA",
       "nohp": "081363464919",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549500,
+      "id": 1786961300244,
       "nama": "BUNGA INDAH KHAIRANI",
       "nohp": "082311245256",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549501,
+      "id": 1786961300245,
       "nama": "FAHREL SYACH",
       "nohp": "087785669443",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549502,
+      "id": 1786961300246,
       "nama": "FATHIAN ABDUL HARITH",
       "nohp": "081363087050",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549503,
+      "id": 1786961300248,
       "nama": "GLEDIS RACHEL MUSENDA",
       "nohp": "081374401818",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549504,
+      "id": 1786961300249,
       "nama": "HANYFA ADZYQRA",
       "nohp": "085278801532",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549505,
+      "id": 1786961300250,
       "nama": "IBRA RAHADIAN FINDRA",
       "nohp": "081276523826",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549506,
+      "id": 1786961300251,
       "nama": "KHAIRANNISA",
       "nohp": "081804941528",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549507,
+      "id": 1786961300252,
       "nama": "MAHIRA MINHATUL WAFIRAH",
       "nohp": "082284954302",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549508,
+      "id": 1786961300253,
       "nama": "MALVINO MANDALA",
       "nohp": "082392636058",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549509,
+      "id": 1786961300255,
       "nama": "MUHAMMAD FEBRYOCHO PUTRA",
       "nohp": "085278200877",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549510,
+      "id": 1786961300256,
       "nama": "NAILA RAUDHATUL HUSNA",
       "nohp": "085364400499",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549511,
+      "id": 1786961300257,
       "nama": "NAJMAH SAVIRA",
       "nohp": "081275445925",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549512,
+      "id": 1786961300258,
       "nama": "NAJWA INTAN PARADYSA",
       "nohp": "081240834024",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549513,
+      "id": 1786961300259,
       "nama": "NAYCILLA KHARISA",
       "nohp": "081363274800",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549514,
+      "id": 1786961300260,
       "nama": "NUR QISTI MAULIDNA",
       "nohp": "082174499457",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549515,
+      "id": 1786961300261,
       "nama": "PARULIAN NAIBAHO",
       "nohp": "081266331326",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549516,
+      "id": 1786961300262,
       "nama": "RAFA WIJAYA ADI UTAMA",
       "nohp": "083164463705",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549517,
+      "id": 1786961300264,
       "nama": "RAFKA AULIA DENRA",
       "nohp": "081374121592",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549518,
+      "id": 1786961300265,
       "nama": "RAKA ADITYA WENDRA",
       "nohp": "082382370323",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549519,
+      "id": 1786961300266,
       "nama": "RANGGA PULNAWARMAN",
       "nohp": "082268134488",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549520,
+      "id": 1786961300267,
       "nama": "RATU FIKA MAHARANI",
       "nohp": "082283291914",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549521,
+      "id": 1786961300268,
       "nama": "REFAL FIRGANTARA",
       "nohp": "082284988581",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549522,
+      "id": 1786961300269,
       "nama": "RENITA AYU MAHENDRA",
       "nohp": "082169966686",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549523,
+      "id": 1786961300270,
       "nama": "RISKI ANUGRAH",
       "nohp": "-",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549524,
+      "id": 1786961300271,
       "nama": "ROSARI TERESIA SIJABAT",
       "nohp": "085278200957",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549525,
+      "id": 1786961300272,
       "nama": "UFAIRA MUJAHIDAH",
       "nohp": "082391625937",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549526,
+      "id": 1786961300273,
       "nama": "VELYA VISCA EFENDI",
       "nohp": "085264657573",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549527,
+      "id": 1786961300275,
       "nama": "VENNO AHMAD NAFA'UL HUDA",
       "nohp": "087886554298",
       "kelas": "XI.3"
     },
     {
-      "id": 1786954549528,
+      "id": 1786961300276,
+      "nama": "ZAHRATUL AMELIA",
+      "nohp": "-",
+      "kelas": "XI.3"
+    }
+  ],
+  "metadata": {
+    "kelas": "XI.3",
+    "jumlah_siswa": 39,
+    "updated": "2026-08-17T10:09:18.740Z"
+  },
+  "siswa": [
+    {
+      "id": 1786961300233,
+      "nama": "AIRA DELIA PUTRI",
+      "nohp": "083176897420",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300234,
+      "nama": "ALINE NAVELA",
+      "nohp": "085265502249",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300235,
+      "nama": "ALYA CIANEF",
+      "nohp": "081366221358",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300236,
+      "nama": "AMELYA ANGGRIANI",
+      "nohp": "083801631438",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300237,
+      "nama": "ANANTA ARMI",
+      "nohp": "082211154858",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300239,
+      "nama": "ANGGA SYAHPUTRA",
+      "nohp": "085374151308",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300240,
+      "nama": "ANNADIN RAHIMA YUSAN",
+      "nohp": "085356941595",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300241,
+      "nama": "ANNISA ARAFATUL JANAH",
+      "nohp": "082285329611",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300242,
+      "nama": "ANNISA VERBEL",
+      "nohp": "082285632344",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300243,
+      "nama": "ARKAAN QOTHRUNNADA",
+      "nohp": "081363464919",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300244,
+      "nama": "BUNGA INDAH KHAIRANI",
+      "nohp": "082311245256",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300245,
+      "nama": "FAHREL SYACH",
+      "nohp": "087785669443",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300246,
+      "nama": "FATHIAN ABDUL HARITH",
+      "nohp": "081363087050",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300248,
+      "nama": "GLEDIS RACHEL MUSENDA",
+      "nohp": "081374401818",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300249,
+      "nama": "HANYFA ADZYQRA",
+      "nohp": "085278801532",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300250,
+      "nama": "IBRA RAHADIAN FINDRA",
+      "nohp": "081276523826",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300251,
+      "nama": "KHAIRANNISA",
+      "nohp": "081804941528",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300252,
+      "nama": "MAHIRA MINHATUL WAFIRAH",
+      "nohp": "082284954302",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300253,
+      "nama": "MALVINO MANDALA",
+      "nohp": "082392636058",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300255,
+      "nama": "MUHAMMAD FEBRYOCHO PUTRA",
+      "nohp": "085278200877",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300256,
+      "nama": "NAILA RAUDHATUL HUSNA",
+      "nohp": "085364400499",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300257,
+      "nama": "NAJMAH SAVIRA",
+      "nohp": "081275445925",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300258,
+      "nama": "NAJWA INTAN PARADYSA",
+      "nohp": "081240834024",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300259,
+      "nama": "NAYCILLA KHARISA",
+      "nohp": "081363274800",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300260,
+      "nama": "NUR QISTI MAULIDNA",
+      "nohp": "082174499457",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300261,
+      "nama": "PARULIAN NAIBAHO",
+      "nohp": "081266331326",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300262,
+      "nama": "RAFA WIJAYA ADI UTAMA",
+      "nohp": "083164463705",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300264,
+      "nama": "RAFKA AULIA DENRA",
+      "nohp": "081374121592",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300265,
+      "nama": "RAKA ADITYA WENDRA",
+      "nohp": "082382370323",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300266,
+      "nama": "RANGGA PULNAWARMAN",
+      "nohp": "082268134488",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300267,
+      "nama": "RATU FIKA MAHARANI",
+      "nohp": "082283291914",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300268,
+      "nama": "REFAL FIRGANTARA",
+      "nohp": "082284988581",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300269,
+      "nama": "RENITA AYU MAHENDRA",
+      "nohp": "082169966686",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300270,
+      "nama": "RISKI ANUGRAH",
+      "nohp": "-",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300271,
+      "nama": "ROSARI TERESIA SIJABAT",
+      "nohp": "085278200957",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300272,
+      "nama": "UFAIRA MUJAHIDAH",
+      "nohp": "082391625937",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300273,
+      "nama": "VELYA VISCA EFENDI",
+      "nohp": "085264657573",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300275,
+      "nama": "VENNO AHMAD NAFA'UL HUDA",
+      "nohp": "087886554298",
+      "kelas": "XI.3"
+    },
+    {
+      "id": 1786961300276,
       "nama": "ZAHRATUL AMELIA",
       "nohp": "-",
       "kelas": "XI.3"
